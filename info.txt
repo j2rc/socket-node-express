@@ -1,0 +1,19 @@
+{
+  asset_id: '4e69f722d7f63db7100c5a30b285e1b4',
+  public_id: 'zular/62aa76aba2da7283c599dc02-image1',
+  version: 1658364031,
+  version_id: '41a50c1cd3f6b9ec6e826d67e14796a7',
+  signature: 'e14a24c75d4ca73de51027bcdcebb9fdb0435fd1',
+  width: 3264,
+  height: 2448,
+  format: 'jpg',
+  resource_type: 'image',
+  created_at: '2022-07-21T00:40:31Z',
+  tags: [],
+  bytes: 792385,
+599dc02-image1.jpg',
+  secure_url: 'https://res.cloudinary.com/dvh5ip0hw/image/upload/v1658364031/zular/62aa76aba2da7283c599dc02-image1.jpg',
+  folder: 'zular',
+  overwritten: true,
+  api_key: '418971833119312'
+}
